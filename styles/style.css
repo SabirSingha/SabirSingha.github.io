@@ -1,11 +1,18 @@
 body {
-    background-color: #fefefe;
-    color: #222;
-    font-family: sans-serif;
-    padding: 20px;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://images.pexels.com/photos/925743/pexels-photo-925743.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family:sans-serif;
   }
   
   h1 {
-    color: #1a73e8;
+    color: #050c16;
+  }
+  
+  body, h1 {
+    text-align: center;
   }
   
